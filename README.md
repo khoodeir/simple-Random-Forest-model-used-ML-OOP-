@@ -55,7 +55,7 @@ Responsibilities:
 ## ▶ Example Usage
 
 ```python
-rf_system = RandomForestModel("loan_data.csv")
+RF_system=RandomForestModel(r"C:\Users\FALCON\Downloads\Credit.csv")
 
-rf_system.load_data()
-rf_system.train_data()
+RF_system.load_data()
+RF_system.train_data()
